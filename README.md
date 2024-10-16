@@ -18,5 +18,5 @@ Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmedeiross&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmedeiross&layout=compact)
 
-![Patrick_stats](https://github-readme-stats.vercel.app/api?username=pmedeiross&hide=contribs&,prs&theme=transparent)
