@@ -16,6 +16,7 @@ Hi there 👋
 
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
 <br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmedeiross&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmedeiross&layout=compact)
