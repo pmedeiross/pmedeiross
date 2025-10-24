@@ -5,7 +5,7 @@ Hi there 👋
   Atualmente cursando Ciência da Computação na Universidade Federal de Catalão,   
   iniciando estudos como Porgramador Full-Stack com as seguintes linguagens:
 
--<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)" alt="java-logo">
+- <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)" alt="java-logo">
 
 - <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c-logo"/>
 
